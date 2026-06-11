@@ -12,8 +12,6 @@ O **NeoCampo** é um ecossistema digital desenvolvido como projeto final integra
 - **Visão Computacional:** Detecção de pragas via rede neural (YOLO).
 - **Integração Cloud:** Disparo de alertas inteligentes via AWS SNS.
 
-## 🏗️ Arquitetura do Sistema
-[DICA: Coloque aqui o print do seu diagrama de blocos ou arquitetura]
 
 ## 🛠️ Tecnologias Utilizadas
 - **Linguagem:** Python
@@ -22,16 +20,12 @@ O **NeoCampo** é um ecossistema digital desenvolvido como projeto final integra
 - **Cloud:** AWS (SNS, IAM)
 - **IA/ML:** Scikit-Learn, YOLO (Visão Computacional)
 
-## 🎥 Demonstração
-Confira o vídeo de apresentação do projeto:
-[🔗 Link do vídeo no YouTube](SEU_LINK_AQUI)
-
 ## ☁️ Fase 7 - Integração AWS
 O serviço de mensageria foi configurado para alertar sobre anomalias.
-![Status da AWS](docs/status_aws.png)
+
 
 ## 👨‍💻 Equipe
-- [Seu Nome] - [RA]
+- [Matheus Costa] - [rm568028]
 
 ---
 *Projeto desenvolvido para o curso de IA da FIAP.*
