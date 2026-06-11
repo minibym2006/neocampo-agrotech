@@ -1,0 +1,14 @@
+AgroManagement_Fase7/
+│
+├── app.py                  # Arquivo principal (Interface Streamlit)
+├── database.db             # Seu banco SQLite (Fase 2)
+│
+├── modules/                # Onde a lógica de cada fase vai morar
+│   ├── __init__.py
+│   ├── meteorologia.py     # Fase 1
+│   ├── iot_service.py      # Fase 3
+│   ├── ml_engine.py        # Fase 4
+│   └── vision_system.py    # Fase 6
+│
+├── data/                   # Imagens para o YOLO e CSVs
+└── aws_utils/              # Configuração de e-mail/SMS (Fase 5/7)
